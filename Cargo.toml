@@ -1,0 +1,11 @@
+[package]
+name = "rust-window"
+version = "0.1.0"
+authors = ["sebastian <sebberas2@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+windows = "0.17.2"
+
+[build-dependencies]
+windows = "0.17.2"
